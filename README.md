@@ -22,12 +22,12 @@ Species (Target variable: Setosa, Versicolor, Virginica)
 Power Query (Data transformation)
 DAX (Data Analysis Expressions) (For custom calculations)
 
-📊 Key Visualizations Summary Statistics: Card visuals displaying sum values of features.
-Scatter Plot: Visualizing petal length vs. petal width with species as a legend.
-Bar Chart: Showing species distribution across the dataset.
-Interactive Filters: Allowing users to explore data by species.
+📊 **Key Visualizations Summary Statistics**: Card visuals displaying sum values of features.
+**Scatter Plot**: Visualizing petal length vs. petal width with species as a legend.
+**Bar Char**t: Showing species distribution across the dataset.
+**Interactive Filters**: Allowing users to explore data by species.
 
-🚀 How to UseLoad the Dataset into Power BI (Get Data → CSV)
+🚀 How to Load the Dataset into Power BI (Get Data → CSV)
 Transform Data using Power Query (rename columns, ensure correct data types)
 Create Visuals using the Visualizations pane
 Apply Filters & Formatting for better insights
